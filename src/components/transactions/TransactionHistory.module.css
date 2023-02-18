@@ -1,0 +1,18 @@
+
+.tableItem{
+padding: 5px 15px;
+text-align: center;
+font-size: 16px;
+border: 2px solid  black;
+background-color: gray;
+        }
+.tablewindow{
+text-align: center;
+border:1px solid black;
+margin: 0;
+}
+.transhistory{
+    max-width: 600px;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+}
